@@ -1,0 +1,15 @@
+{
+  "name": "AI Nutrition Analyzer",
+  "short_name": "NutriAI",
+  "start_url": "https://nutrition-analyzer-bhhqdzzhq7bzycamkzrxkp.streamlit.app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4b4b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1147/1147805.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
