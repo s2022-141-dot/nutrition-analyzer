@@ -9,10 +9,14 @@ from wow_features import *
 from meal_history import save_meal, extract_score_from_result
 
 load_dotenv()
-api_key = os.getenv("GROQ_API_KEY")
+
+api_key = st.secrets.get(
+    "GROQ_API_KEY",
+    os.getenv("GROQ_API_KEY")
+)
 
 if not api_key:
-    st.error("GROQ_API_KEY not found in .env file")
+    st.error("GROQ_API_KEY not found")
     st.stop()
 
 st.set_page_config(
@@ -363,4 +367,5 @@ NUTRITIONAL ANALYSIS:
     )
 
 with tab2:
+
     show_history_dashboard()
