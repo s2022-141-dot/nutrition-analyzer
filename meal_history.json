@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2026-06-05",
+    "time": "01:33",
+    "health_condition": "PCOS",
+    "nutrition_summary": "## Food Items Identified\n\n* Chicken leg (roasted/grilled)\n* Mixed rice (likely basmati) with herbs and spices\n* Lime wedges (2-3)\n\n## Estimated Nutrition (per serving)\n\nAssuming a serving size of 1 cup (250g) of the chicken and rice mixture:\n\n* Calories: approximately 420 kcal\n* Protein: 37g (chicke",
+    "recommendation_summary": "## Health Score: 60/100\n\n## Clinical Verdict\nThis meal is not ideal for PCOS due to its high carbohydrate content from refined basmati rice, moderate saturated fat from the chicken leg, and low fiber content.\n\n## Top Strengths \u2705\n1. Presence of lean protein from the chicken leg.\n2. Good source of ess",
+    "score": 60
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:35",
+    "health_condition": "Fatty Liver",
+    "nutrition_summary": "## Food Items Identified\n\n* Chicken leg (roasted/grilled)\n* Mixed rice (likely basmati) with herbs and spices\n* Lime wedges (2-3)\n\n## Estimated Nutrition (per serving)\n\nAssuming a serving size of 1 cup (250g) of the chicken and rice mixture:\n\n* Calories: approximately 420 kcal\n* Protein: 37g (chicke",
+    "recommendation_summary": "## Health Score: 60/100\n\n## Clinical Verdict\nThis meal is not ideal for Fatty Liver due to the presence of refined carbohydrates and moderate saturated fat content from the chicken, which may exacerbate liver inflammation.\n\n## Top Strengths \u2705\n1. Lean protein present: The chicken leg provides a good ",
+    "score": 60
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:37",
+    "health_condition": "Gluten Sensitivity",
+    "nutrition_summary": "## Food Items Identified\n- Chocolate cake (slice)\n- Macaroon (chocolate or red velvet, likely baked)\n- Fresh or frozen red currants\n- Fresh or frozen blueberry\n\n## Estimated Nutrition (per serving)\nAssuming a serving size of 1 slice of chocolate cake (approximately 120g), 1 macaroon (approximately 2",
+    "recommendation_summary": "## Health Score: 0/100\n\n## Clinical Verdict\nThis meal is clinically inappropriate for Gluten Sensitivity due to the presence of gluten-containing ingredients, specifically wheat-based chocolate cake and macaroon, which can trigger an immune response and cause inflammation.\n\n## Top Strengths \u2705\n- Pres",
+    "score": 0
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:39",
+    "health_condition": "High Cholesterol",
+    "nutrition_summary": "## Food Items Identified\n- Chocolate cake (slice)\n- Macaroon (chocolate or red velvet, likely baked)\n- Fresh or frozen red currants\n- Fresh or frozen blueberry\n\n## Estimated Nutrition (per serving)\nAssuming a serving size of 1 slice of chocolate cake (approximately 120g), 1 macaroon (approximately 2",
+    "recommendation_summary": "## Health Score: 20/100\n\nThis meal is clinically unsuitable for High Cholesterol due to its extremely high sugar content, high saturated fat from the chocolate and likely presence of butter or cream in the cake, and low fiber content.\n\n## Top Strengths \u2705\n- Presence of some fiber and antioxidants fro",
+    "score": 20
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:39",
+    "health_condition": "General",
+    "nutrition_summary": "## Food Items Identified\n- Chocolate cake (slice)\n- Macaroon (chocolate or red velvet, likely baked)\n- Fresh or frozen red currants\n- Fresh or frozen blueberry\n\n## Estimated Nutrition (per serving)\nAssuming a serving size of 1 slice of chocolate cake (approximately 120g), 1 macaroon (approximately 2",
+    "recommendation_summary": "## Health Score: 20/100\n\nGeneral's meal consists of a slice of chocolate cake, a macaroon, and a small serving of berries. The presence of refined carbohydrates from the cake and macaroon, high sugar content (40g), and high saturated fat (13g) are major concerns.\n\n## Clinical Verdict\nThis meal is cl",
+    "score": 20
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:40",
+    "health_condition": "General",
+    "nutrition_summary": "## Food Items Identified\n- Chicken pieces (likely thighs or drumsticks), cooked in a sauce\n- Bell peppers (green and red), sliced\n- Tomato-based sauce\n- Fresh cilantro (or similar herb), chopped\n\n## Estimated Nutrition (per serving)\nAssuming a serving size of approximately 250g (about 1/4 of the dis",
+    "recommendation_summary": "## Health Score: 60/100\n\n## Clinical Verdict\nThis meal is not ideal for General due to its high saturated fat and sodium content, which could be problematic for blood pressure and cholesterol management.\n\n## Top Strengths \u2705\n1. **Lean Protein**: The presence of chicken provides a good source of lean ",
+    "score": 60
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:41",
+    "health_condition": "Fatty Liver",
+    "nutrition_summary": "## Food Items Identified\n- Chicken pieces (likely thighs or drumsticks), cooked in a sauce\n- Bell peppers (green and red), sliced\n- Tomato-based sauce\n- Fresh cilantro (or similar herb), chopped\n\n## Estimated Nutrition (per serving)\nAssuming a serving size of approximately 250g (about 1/4 of the dis",
+    "recommendation_summary": "## Health Score: 60/100\n\n## Clinical Verdict\nThis meal is not ideal for Fatty Liver due to its high saturated fat content from the chicken and sauce, and low fiber content, which may exacerbate liver health issues.\n\n## Top Strengths \u2705\n1. **Lean Protein Presence**: The chicken provides a good amount ",
+    "score": 60
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:50",
+    "health_condition": "High Cholesterol",
+    "nutrition_summary": "## Food Items Identified\nThe meal appears to be **Chicken Karahi**, a popular South Asian dish. The ingredients visible include:\n- Chicken pieces\n- Green chilies\n- Ginger strips\n- Tomato-based curry\n\nGiven that it's a South Asian dish, it is assumed to be prepared with significant oil or ghee unless",
+    "recommendation_summary": "## Health Score: 40/100\n\n# Clinical Verdict\nA doctor reviewing this patient's food diary for High Cholesterol would say: \"This Chicken Karahi meal is concerning for High Cholesterol due to its high saturated fat and cholesterol content, likely to exacerbate elevated LDL cholesterol levels.\"\n\n# Top S",
+    "score": 40
+  },
+  {
+    "date": "2026-06-05",
+    "time": "01:52",
+    "health_condition": "Fatty Liver",
+    "nutrition_summary": "## Food Items Identified\n- **Chicken Karahi**: This appears to be a traditional South Asian dish made with chicken pieces cooked in a spicy tomato-based sauce, garnished with ginger strips and green chilies. Given it's a South Asian dish, it is assumed to be prepared with significant oil or ghee.\n\n#",
+    "recommendation_summary": "## Health Score: 30/100\n\nThe meal starts at a perfect score of 100. However, given that it is a karahi dish, which is traditionally cooked with a significant amount of oil or ghee, we deduct -20 for the high saturated fat content, which is detrimental for Fatty Liver. Additionally, the presence of h",
+    "score": 30
+  },
+  {
+    "date": "2026-06-05",
+    "time": "10:39",
+    "health_condition": "Fatty Liver",
+    "nutrition_summary": "## Food Items Identified\n- **Chicken Karahi**: Chicken pieces cooked in a spicy tomato-based curry with ginger, green chilies, and possibly significant oil/ghee, given the traditional South Asian cooking method.\n\n## Estimated Nutrition (per serving)\nAssuming a serving size of approximately 250-300 g",
+    "recommendation_summary": "## Health Score: 30/100\n\nThe meal in question, Chicken Karahi, poses significant concerns for Fatty Liver due to its high saturated fat, excessive oil/ghee, and high sodium content. \n\n# Clinical Verdict\nThis Chicken Karahi meal is detrimental for Fatty Liver as it contains high amounts of saturated ",
+    "score": 30
+  }
+]
