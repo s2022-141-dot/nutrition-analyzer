@@ -2,3 +2,7 @@ streamlit
 Pillow
 requests
 python-dotenv
+plotly
+pandas
+
+
