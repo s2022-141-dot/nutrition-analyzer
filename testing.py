@@ -9,7 +9,7 @@ from wow_features import *
 from meal_history import save_meal, extract_score_from_result
 
 load_dotenv()
-
+st.write("Secrets available:", list(st.secrets.keys()))
 api_key = st.secrets.get(
     "GROQ_API_KEY",
     os.getenv("GROQ_API_KEY")
@@ -369,3 +369,4 @@ NUTRITIONAL ANALYSIS:
 with tab2:
 
     show_history_dashboard()
+
